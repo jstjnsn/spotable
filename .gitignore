@@ -2,4 +2,6 @@ node_modules/
 
 postgres-data/
 
+docker-compose.yml
+
 .DS_Store
